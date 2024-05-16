@@ -17,4 +17,11 @@ Print "Hello world!".
 """
 my_print() = println("Hello world!")
 
+"""
+    my_print2()
+
+Print "Hello world!!".
+"""
+my_print2() = println("Hello world!!")
+
 end
